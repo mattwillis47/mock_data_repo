@@ -1,0 +1,9 @@
+{
+	"name": "icca-mock-data-factory",
+	"location": "ukwest",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e876235-5288-45e9-a86f-3a20f1ff75f1",
+		"tenantId": "37c354b2-85b0-47f5-b222-07b48d774ee3"
+	}
+}
